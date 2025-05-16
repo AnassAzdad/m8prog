@@ -2,7 +2,7 @@
 
 <main class="container my-5">
 <?php
-// Start de loop
+
 if ( have_posts() ) :
 
     while ( have_posts() ) :
